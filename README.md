@@ -81,3 +81,35 @@ pip install -r requirements.txt
 
 ```
 
+# ▶️ Run the System
+
+```bash
+python detect_cheating.py
+
+```
+# You can edit the video path inside the script:
+
+python
+Copy
+Edit
+
+ cap = cv2.VideoCapture("sample_video.mp4")  # or 0 for webcam
+
+# ⚙️ Detection Logic (Simplified)
+
+if head_x > left_shoulder_x + threshold or head_x < right_shoulder_x - threshold:
+    mark_as_suspicious()
+
+You can fine-tune the detection by modifying keypoint indices and thresholds in the code.
+
+🧑‍💻 Author
+
+Abdelrahman Helal
+
+🎓 Faculty of Artificial 
+
+Intelligence – Menoufia University
+
+💼 Computer Vision & AI Developer
+
+🔗 LinkedIn
