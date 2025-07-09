@@ -111,4 +111,4 @@ Intelligence – Menoufia University
 
 💼 Computer Vision & AI Developer
 
-🔗 LinkedIn
+🔗 LinkedIn : https://tinyurl.com/4hec89kr
