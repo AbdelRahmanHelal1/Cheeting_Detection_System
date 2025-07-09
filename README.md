@@ -1,4 +1,4 @@
-# 🎓 Cheating Detection System in Exams using YOLOv8 Pose Estimation
+# Cheating Detection System in Exams using YOLOv8 Pose Estimation
 
 This project uses **YOLOv8 pose estimation** to detect possible **cheating behaviors** during exams by analyzing body and head movements of students. It monitors human posture, gaze direction, and detects suspicious patterns such as side glances, leaning, or signaling.
 
@@ -106,8 +106,7 @@ You can fine-tune the detection by modifying keypoint indices and thresholds in 
 
 Abdelrahman Helal
 
-🎓 Faculty of Artificial 
-
+🎓 Faculty of Artificial
 Intelligence – Menoufia University
 
 💼 Computer Vision & AI Developer
